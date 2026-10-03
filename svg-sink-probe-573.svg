@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" onload="window.__p.onload=1">
+  <image href="x" onerror="window.__p.onerr=1"/>
+  <rect width="4" height="4"><animate attributeName="x" begin="0s" onbegin="window.__p.onbegin=1" dur="1s"/></rect>
+  Sorry, non-svg browsers
+</svg>
